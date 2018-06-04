@@ -1,4 +1,5 @@
-# Aktives Zuhören
+Aktives Zuhören
+
 ## Drei Stufen des Aktive Zuhörens
 1. Beziehungsebene (Zuhören, Störquellen entfernen)
 2. Inhaltliches Verständnis (Mit eigenen Worten zusammenfassen)
@@ -29,7 +30,7 @@ Früher war die Rhetorik die Disziplin der Politik, des Lehrens und der Wissensc
 ## Self Marketing
 Die bewusste Betonung der eigenen Stärken. Es ist wichtig sich von der Masse hervorzuheben und seine Einzigartigkeiten (USP) zu kennen.
 
-## Alleinstellungsmarkmale - Unique selling proposition (USP)
+## Alleinstellungsmerkmale - Unique selling proposition (USP)
 1. USP muss kurz und bündig sein
 2. USP muss nachhaltig sein
 3. USP muss anders sein
@@ -39,7 +40,7 @@ Ein USP kann sich entweder auf Hard Skills (Fachwissen, Fachkompetenzen) oder So
 ## Vorbereitung
 Eine gute Vorbereitung ist sehr wichtig und kann viel bewirken. Man sollte sich genügend über das Unternehmen informieren. Dadurch kann man im Gespräch diese Infos einbringen und Fragen dazu stellen.
 
-Man sollte kurz vorher eine kurze Selbstpräsentation vorbereiten. Dort ist es wichtig die fachlichen Qualifikationen und praktischen ERfahrungen herauszustellen.
+Man sollte kurz vorher eine kurze Selbstpräsentation vorbereiten. Dort ist es wichtig die fachlichen Qualifikationen und praktischen Erfahrungen herauszustellen.
 
 Bei den Stärken und Schwächen geht es nicht um das fachliche Know-how sondern um die persönlichen Komptenzen. Viele Schwächen lassen sich auch als positive Schwäche mit Argumenten verkaufen.
 
@@ -53,7 +54,7 @@ Dabei ist der Elevator Pitch ein gut vorbereiteter und eingeübter Text der kurz
 
 ## AIDA-Formel
 * A: Attention: Kontakt aufnehmen, Aufmerksamkeit des Gegenübers wecken
-* I: Interst: Interesse für die Idee erwecken, auch mit sprachlicher und körperlicher Begeisterung dafür.
+* I: Interest: Interesse für die Idee erwecken, auch mit sprachlicher und körperlicher Begeisterung dafür.
 * D: Desire: Auf wünsche und Verlangen des Zuhörer eingehen
 * A: Action: Das gegenüber auffordern zu Handeln
 
@@ -93,6 +94,7 @@ Die GFK kann dabei auf allen Ebenen der Kommunikation und auch in den unterschie
 * Verantwortung leugnen
 
 # Körpersprache
+
 Die Körpersprache wird zusätzlich als nonverbale Kommunikation bezeichnet und ist eine Art der Informationsvermittlung die nur mithilfe von Mimik, Gestik, Berührungen, Körperbewegungen, Haltung und Körperinszenierung umgesetzt wird. Da sie meistens unbewusst ausgesendet wird, ist sie viel authentischer, als das gesprochene Wort.
 
 ## Zehn Gebote
@@ -175,7 +177,7 @@ Introvertierte können sich in der Arbeitswelt behaupten in dem sie mit ihren St
 * Beharrlichkeit
 
 # Schlagfertigkeit
-Eine Person ist per Definition Schlagfertig, wenn diese auf eine unerwartete Bemerkung oder Frage teffend und / oder witzig reagiert. Die Schlagfertigkeit kann man dabei in drei Kategroien aufteilen:
+Eine Person ist per Definition Schlagfertig, wenn diese auf eine unerwartete Bemerkung oder Frage teffend und / oder witzig reagiert. Die Schlagfertigkeit kann man dabei in drei Kategorien aufteilen:
 
 * Erwiderungsfertigkeit
 * Witz-Fertigkeit
@@ -200,7 +202,7 @@ Ein Smalltalk ist eine beiläufige Konversation ohne Tiefgang. Es handelt sich h
 * B: Blickkontakt suchen, begrüssen
 * A: Anfangen, ansprechen
 * S: Statement abgeben
-* F: Fraen stellen
+* F: Fragen stellen
 
 # Das Verkaufsgespräch
 ## Die 12 Phasen des Verkaufsgesprächs
@@ -220,11 +222,11 @@ Ein Smalltalk ist eine beiläufige Konversation ohne Tiefgang. Es handelt sich h
 # Visualisieren
 Für eine gute Visualisierung seiner Präsentation sollte man, dass für sich passende Medium auswählen, ob dies nun eine PowerPoint-Präsentation, eine Flipchart, eine Pinnwand oder eine Overheadprojektor ist.
 
-Man sollte Informationen direkt während der Präsentation aufschreiben, den so nimmt der Zuhörer die Information auf zwei Arten auf und ist während der Präsentation immer bei der Sache damit er keine Informationen verliert. Eine andere Art zu visualisieren ist z. B. die LInien eines Balkendiagrammes langsam zu zeichnen, damit beim Publikum eine Art Spannung erzeugt wird.
+Man sollte Informationen direkt während der Präsentation aufschreiben, den so nimmt der Zuhörer die Information auf zwei Arten auf und ist während der Präsentation immer bei der Sache damit er keine Informationen verliert. Eine andere Art zu visualisieren ist z. B. die Linien eines Balkendiagrammes langsam zu zeichnen, damit beim Publikum eine Art Spannung erzeugt wird.
 
 Man kann aber durch die Sprache eine Visualisierung erzeugen, in dem man mit bestimmten Signalwörter Aufmerksamkeit und Spannung ankündigen:
 
 * "Aufgepasst"
 * "Jetzt komm's..."
 * "Hören Sie hin!"
-* "Jetzt verrate ich Ihnen etwas...
+* "Jetzt verrate ich Ihnen etwas..."
